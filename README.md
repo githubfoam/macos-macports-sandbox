@@ -1,2 +1,8 @@
 # macos-macports-sandbox
-macos macports
+
+[![macports macOS CI workflow](https://github.com/githubfoam/macos-macports-sandbox/actions/workflows/macports-workflow.yml/badge.svg?branch=test)](https://github.com/githubfoam/macos-macports-sandbox/actions/workflows/macports-workflow.yml)  
+~~~
+MacPorts 
+https://www.macports.org/
+~~~
+
